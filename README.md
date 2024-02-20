@@ -13,3 +13,6 @@
 - паузу, 
 - звуковые эффекты, 
 - сообщение о проигрыше.
+
+![image](https://github.com/predzemshar2/tetris_base/assets/160653035/701b266d-3794-4f05-99b3-fd1bd0b1a26c)
+
